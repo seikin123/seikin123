@@ -14,7 +14,7 @@
 | 21/9-　現在 | 独学・転職活動中 |  
 
 ##リンク  
-| value | key 　　　　　　　　　　　|
+| value | key 　　　　　　　　　|
 | --- | --- |
 |  twitter | [よしだ](https://twitter.com/PJQ5aZrSKpdFuQC) |
 | Qiita | [@seikin123](https://qiita.com/seikin123) |
