@@ -19,5 +19,5 @@
 |  twitter | [よしだ](https://twitter.com/PJQ5aZrSKpdFuQC) |
 | Qiita | [@seikin123](https://qiita.com/seikin123) |  
 
-##　個人開発  
+## 個人開発  
 [Command-master](https://command-master.com/)
