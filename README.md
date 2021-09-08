@@ -10,7 +10,7 @@
 | --- | --- |
 | 2015/4- 2019/3 | 城西大学　現代政策学部 |
 | 2019/4 - 2021/4 | 福西電機株式会社 |
-| 2021/5 - 2021/8 | プログラミングスクールDMMWEBCAMP入学 |
+| 2021/5 - 2021/8 | プログラミングスクール DMMWEBCAMP入学 |
 | 2021/9 -現在 | 転職活動中 |  
 
 ## リンク  
@@ -21,6 +21,7 @@
 
 ## 個人開発  
 ### [Command-master](https://command-master.com/)  
+> アプリ
 <img width="1439" alt="C-M" src="https://user-images.githubusercontent.com/76866582/132525252-ec9a5725-e50c-467d-b0b1-766f109f9e1a.png">
 
 
