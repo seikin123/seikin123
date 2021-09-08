@@ -20,7 +20,7 @@
 | Qiita | [@seikin123](https://qiita.com/seikin123) |  
 
 ## 個人開発  
-### [Command-master](https://command-master.com/)  
+### [Command-master](https://github.com/seikin123/Command_master_app#readme)
 > Ruby on Rails ・ JavaScriptで作成しました。  
 > 問題が10問ランダムで出題されゲーム感覚でコマンド学習ができます。  
 > コンセプトは「ショートカットキー、コマンドをに楽しく感覚的に覚える」です。  
