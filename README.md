@@ -1,4 +1,5 @@
-[![](https://raw.githubusercontent.com/seikin123/seikin123/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=nishipy)
+
 [![](https://raw.githubusercontent.com/seikin123/seikin123/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/seikin123/seikin123/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 
 # 自己紹介  
