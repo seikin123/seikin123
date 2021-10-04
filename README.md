@@ -44,6 +44,12 @@ Paiza Bランク取得
 > Ruby on Rails ・ JavaScriptで作成しました。  
 > 問題が10問ランダムで出題されゲーム感覚でコマンド学習ができます。  
 > コンセプトは「ショートカットキー、コマンドを楽しく感覚的に覚える!」です。  
-<img width="1439" alt="C-M" src="https://user-images.githubusercontent.com/76866582/132525252-ec9a5725-e50c-467d-b0b1-766f109f9e1a.png">
+<img width="1439" alt="C-M" src="https://user-images.githubusercontent.com/76866582/132525252-ec9a5725-e50c-467d-b0b1-766f109f9e1a.png">  
+ 
+### [My-ToDo](https://github.com/seikin123/my-todo#readme)
+> Ruby on Rails ・ JavaScriptで作成しました。  
+> 日々の業務のタスク管理が行えます。  
+> カウントダウンタイマー機能がついているので、より時間を意識して効率化できます。    
+
 
 
