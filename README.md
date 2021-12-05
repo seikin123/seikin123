@@ -2,12 +2,7 @@
 
 [![](https://raw.githubusercontent.com/seikin123/seikin123/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/seikin123/seikin123/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 
-# 自己紹介  
-吉田大希と申します。  
-1996年生まれ25歳になります。埼玉県出身です。  
-Paiza Bランク取得  
-
-よろしくお願いします。  
+ 
 
 ## 経歴  
 | 期間 | 経歴 　　　　　　　　　　　|
