@@ -15,7 +15,6 @@
 ## リンク  
 | サイト | key 　　　　　　　　　|
 | --- | --- |
-|  Twitter | [@seikin_123](https://twitter.com/PJQ5aZrSKpdFuQC) |
 | Qiita | [@seikin123](https://qiita.com/seikin123) |  
 
 ## 個人開発  
@@ -24,12 +23,4 @@
 > 問題が10問ランダムで出題されゲーム感覚でコマンド学習ができます。  
 > コンセプトは「ショートカットキー、コマンドを楽しく感覚的に覚える!」です。  
 <img width="1437" alt="スクリーンショット 2021-10-11 14 25 56" src="https://user-images.githubusercontent.com/76866582/136738380-e17d38a6-7adf-4a51-aa7a-904156c32937.png">
-  
- 
-### [My-ToDo](https://github.com/seikin123/my-todo#readme)
-> Ruby on Rails ・ JavaScriptで作成しました。  
-> 日々の業務のタスク管理が行えます。  
-> カウントダウンタイマー機能がついているので、より時間を意識して効率化できます。    
-[現在停止中]
-
-
+  [現在停止中]
